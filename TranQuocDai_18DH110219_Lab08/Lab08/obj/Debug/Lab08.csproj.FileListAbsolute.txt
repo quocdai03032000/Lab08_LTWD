@@ -1,0 +1,16 @@
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\bin\Debug\Lab08.exe.config
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\bin\Debug\Lab08.exe
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\bin\Debug\Lab08.pdb
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\obj\Debug\Lab08.csprojAssemblyReference.cache
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\obj\Debug\Lab08.Properties.Resources.resources
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\obj\Debug\Lab08.csproj.GenerateResource.cache
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\obj\Debug\Lab08.exe
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\obj\Debug\Lab08.pdb
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\bin\Debug\EntityFramework.dll
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\bin\Debug\EntityFramework.xml
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\obj\Debug\Lab08.PhongBanMain.resources
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\obj\Debug\Lab08.csproj.CopyComplete
+C:\Users\QuocDai\Desktop\all-from win 10\Study\Study Lab\Win\Win Lab buổi 8\TranQuocDai_18DH110219_Lab08\Lab08\obj\Debug\Lab08.NhanVienMain.resources
